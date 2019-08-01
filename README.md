@@ -1,2 +1,2 @@
 # geom_classificator
-### Свёрточная нейронная сеть, которая классифицирует - треугольник, круг, квадрат
+### A convolutional neural network that classifies a triangle, circle, and square.
